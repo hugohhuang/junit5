@@ -1,8 +1,8 @@
 {
   "gitbook": ">=3.2.0",
-  "description": "Junit官方文档中文版",
+  "description": "Junit5官方文档中文版",
   "language": "zh-hans",
-  "author": "Sky Ao <aoxiaojian@gmail.com>",
+  "author": "Doczhan翻译团队",
   "extension": null,
   "generator": "site",
   "links" : {
@@ -11,29 +11,29 @@
     }
   },
   "structure" : {
-        "readme" : "README_gitbook.md"
     },
   "plugins": [
-    "theme-comscore",
-    "callouts",
-    "splitter",
+    "-search",
     "-sharing",
     "edit-link",
-    "wide-page",
-    "back-to-top-button",
-    "tags"
+    "github-buttons@2.1.0"
   ],
   "pluginsConfig": {
     "edit-link": {
         "base": "https://github.com/doczhcn/junit5/edit/master",
-        "label": "Edit"
+        "label": "在线编辑"
     },
-    "callouts": {
-        "showTypeInHeader": false
+    "github-buttons": {
+        "repo": "doczhcn/junit5",
+        "types": ["star"],
+        "size": "small"
     }
   },
   "title": "Junit5官方文档中文版",
   "variables": {
-		"platformVersion": "1.0.0"
+        "platformVersion": "1.0.2",
+        "jupiterVersion": "5.0.2",
+        "vintageVersion": "4.12.2",
+        "apiguardianVersion": "4.12.2"
   }
 }

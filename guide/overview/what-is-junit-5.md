@@ -10,11 +10,11 @@
 
 **JUnit Vintage**提供`TestEngine`，用于在平台上运行基于JUnit 3和JUnit 4的测试。
 
-[启动测试框架]: http://junit.org/junit5/docs/current/user-guide/#launcher-api
+[启动测试框架]: ../advanced-topics/launcher-api.md
 [TestEngine]: http://junit.org/junit5/docs/current/api/org/junit/platform/engine/TestEngine.html
-[控制台启动器]: http://junit.org/junit5/docs/current/user-guide/#running-tests-console-launcher
-[Gradle]: http://junit.org/junit5/docs/current/user-guide/#running-tests-build-gradle
-[Maven]: http://junit.org/junit5/docs/current/user-guide/#running-tests-build-maven
-[junit4-runner]: http://junit.org/junit5/docs/current/user-guide/#running-tests-junit-platform-runner
-[编程模型]: http://junit.org/junit5/docs/current/user-guide/#writing-tests
-[扩展模型]: http://junit.org/junit5/docs/current/user-guide/#extensions
+[控制台启动器]: ../running-tests/console-launcher.md
+[Gradle]: ../running-tests/build.md#gradle
+[Maven]: ../running-tests/build.md#maven
+[junit4-runner]: ../running-tests/junit-platform-runner.md
+[编程模型]: ../writing-tests/
+[扩展模型]: ../extensions/
