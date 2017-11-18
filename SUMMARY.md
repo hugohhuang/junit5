@@ -19,7 +19,7 @@
     	* [标签和过滤](guide/writing-tests/tagging-and-filtering.md)
     	* [测试实例生命周期](guide/writing-tests/test-instance-lifecycle.md)
     	* [嵌套测试](guide/writing-tests/nested.md)
-    	* [依赖注入](guide/writing-tests/dependency-injection.md)
+    	* [构造函数和方法的依赖注入](guide/writing-tests/dependency-injection.md)
     	* [测试接口和默认方法](guide/writing-tests/test-interfaces-and-default-methods.md)
     	* [重复测试](guide/writing-tests/repeated-tests.md)
     	* [参数化测试](guide/writing-tests/parameterized-tests.md)
