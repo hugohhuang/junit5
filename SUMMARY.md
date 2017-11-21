@@ -50,7 +50,7 @@
     	* [JUnit Platform Launcher API](guide/advanced-topics/launcher-api.md)
     * [API演进](guide/api-evolution/index.md)
     	* [API版本和状态](guide/api-evolution/version-and-status.md)
-    	* [实现性的API](guide/api-evolution/experimental-apis.md)
+    	* [实验性API](guide/api-evolution/experimental-apis.md)
     	* [@API工具支持](guide/api-evolution/tooling.md)
 
 
